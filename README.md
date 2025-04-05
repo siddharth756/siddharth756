@@ -1,6 +1,6 @@
 ![Welcome Banner](https://github.com/siddharth756/siddharth756/blob/main/images/top.PNG)
 
-## 👨🏻‍💻 I’m a **Bachelor of Computer Applications Student**.
+## 👨🏻‍💻 **Web Developer | Python | NodeJs | BCA Student**.
 
 
 🔬 I’m currently learning and exploring:
@@ -25,6 +25,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   </kbd>
+	&nbsp;
+	&nbsp;
   <kbd style="margin: 10px;padding: 5px 15px;">
     <kbd>Back-end</kbd>
     <br>
@@ -34,6 +36,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original-wordmark.svg" />
   </kbd>
+   <br>
+   <br>
   <kbd style="margin: 10px;padding: 5px 15px;">
     <kbd>Programming Language</kbd>
     <br>
@@ -43,6 +47,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </kbd>
+	&nbsp;
+	&nbsp;
   <kbd style="margin: 10px;padding: 5px 15px;">
     <kbd>Database Technology</kbd>
     <br>
@@ -52,6 +58,8 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   </kbd>
+	&nbsp;
+	&nbsp;
   <kbd style="margin: 10px;padding: 5px 15px;">
     <kbd>Tools/OS</kbd>
     <br>
