@@ -11,11 +11,19 @@
 📫 How to reach me:
 <p>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=siddharthsarvaiya56@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/siddharth-sarvaiya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge" />
   </a>
+</p>
+
+⚡ Check Out :
+<br>
+<p>
+   <a href="https://leetcode.com/u/siddharth756/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+   </a>
 </p>
 
 ---
@@ -81,9 +89,12 @@
 
 
 ---
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth756&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=siddharth756&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth756&layout=compact&hide=TSQL&theme=chartreuse-dark">
+&nbsp;
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=siddharth756&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
+</p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=siddharth756&theme=chartreuse-dark"></p>
 
 ---
