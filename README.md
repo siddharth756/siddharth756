@@ -8,7 +8,15 @@
 - **Data Structures and Algorithms**,
 - **Interested in Artificial intelligence, Machine Learning, Deep Learning**,
 
-📫 How to reach me: [Email me](siddharthsarvaiya56@gmail.com)
+📫 How to reach me:
+<p>
+  <a href="mailto:siddharth756@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/siddharth-sarvaiya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
