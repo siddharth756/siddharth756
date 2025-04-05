@@ -1,4 +1,4 @@
-![Welcome Banner](./images/top.png)
+![Welcome Banner](https://github.com/siddharth756/siddharth756/blob/main/images/top.PNG)
 
 ## 👨🏻‍💻 I’m a **Bachelor of Computer Applications Student**.
 
@@ -90,4 +90,4 @@
 ---
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%siddharth756%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/siddharth756/count.svg" alt="visitor badge"/></p>
