@@ -1,4 +1,4 @@
-![Welcome Banner](https://github.com/siddharth756/siddharth756/blob/main/images/top.PNG)
+![Welcome Banner](https://github.com/siddharth756/siddharth756/blob/main/images/top.png)
 
 ## 👨🏻‍💻 **Web Developer | Python | NodeJs | BCA Student**.
 
